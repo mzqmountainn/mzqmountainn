@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 working！
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1845598311&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Mzq's github stats](https://github-readme-stats.vercel.app/api?username=1845598311&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
