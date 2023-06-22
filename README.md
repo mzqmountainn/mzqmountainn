@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 working！
 
-[![Mzq's github stats](https://github-readme-stats.vercel.app/api?username=1845598311&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Mzq's github stats](https://github-readme-stats.vercel.app/api?username=mzqmountainn&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=1845598311.1845598311.readme)
